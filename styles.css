@@ -1,5 +1,11 @@
 body {
+  background-image url(https://previews.123rf.com/images/velveteye/velveteye1804/velveteye180400042/98883379-selective-focus-sticks-of-agar-wood-or-agarwood-background-the-incense-chips-used-by-burning-for-inc.jpg);
+}
+.menu {
+  width: 100%;
   background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1, h2, p {
